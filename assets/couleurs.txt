@@ -1,0 +1,11 @@
+/* ===== VARIABLES ===== */
+:root {
+    --rose: #f891a6;
+    --rose-hover: #f7859c;
+    --rose-50: #fef3f5;
+    --rose-100: #fddae1;
+
+    --black: black;
+    
+    --white: hsl(0, 0%, 100%);
+}
